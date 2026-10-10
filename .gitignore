@@ -1,0 +1,40 @@
+HELP.md
+
+target/
+build/
+out/
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+.vscode/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+!**/src/main/**/target/
+!**/src/test/**/target/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+.DS_Store
+
+project-context-for-codex.md
+review-abdo-phase2.md
+
+/docs/CUFE\ docs
